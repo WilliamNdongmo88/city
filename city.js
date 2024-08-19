@@ -14,16 +14,16 @@ app.use((req, res, next) => {
   
   app.use((req, res) => {
     res.json([
-        { "id": 1, "nom": "Bafoussam", "population": 285000, "departement": "Menoua", "isCovered": true },
-        { "id": 2, "nom": "Dschang", "population": 120000, "departement": "Menoua", "isCovered": true },
-        { "id": 3, "nom": "Mbouda", "population": 90000, "departement": "Bamboutos", "isCovered": true },
-        { "id": 4, "nom": "Bangangté", "population": 65000, "departement": "Ndé", "isCovered": true },
-        { "id": 5, "nom": "Foumban", "population": 100000, "departement": "Noun", "isCovered": false },
-        { "id": 6, "nom": "Foumbot", "population": 55000, "departement": "Noun", "isCovered": true },
-        { "id": 7, "nom": "Kékem", "population": 35000, "departement": "Haut-Nkam", "isCovered": true },
-        { "id": 8, "nom": "Makénéné", "population": 28000, "departement": "Haut-Nkam", "isCovered": false },
-        { "id": 9, "nom": "Bangou", "population": 20000, "departement": "Méfi", "isCovered": false },
-        { "id": 10, "nom": "Bafang", "population": 60000, "departement": "Haut-Nkam", "isCovered": true }
+        { "id": "i4ZKWScKsR", "nom": "Bafoussam", "population": 285000, "departement": "Menoua", "isCovered": true },
+        { "id": "At6Z87lRfd", "nom": "Dschang", "population": 120000, "departement": "Menoua", "isCovered": true },
+        { "id": "nBGbSSrk7F", "nom": "Mbouda", "population": 90000, "departement": "Bamboutos", "isCovered": true },
+        { "id": "YQbl6710ww", "nom": "Bangangté", "population": 65000, "departement": "Ndé", "isCovered": true },
+        { "id": "7s5ChrlhW6", "nom": "Foumban", "population": 100000, "departement": "Noun", "isCovered": false },
+        { "id": "2dwOnFi6kx", "nom": "Foumbot", "population": 55000, "departement": "Noun", "isCovered": true },
+        { "id": "vdVZx2Xcsd", "nom": "Kékem", "population": 35000, "departement": "Haut-Nkam", "isCovered": true },
+        { "id": "gNVulmIRBh", "nom": "Makénéné", "population": 28000, "departement": "Haut-Nkam", "isCovered": false },
+        { "id": "hwNFnnQY10", "nom": "Bangou", "population": 20000, "departement": "Méfi", "isCovered": false },
+        { "id": "fS7sDiVQ3C", "nom": "Bafang", "population": 60000, "departement": "Haut-Nkam", "isCovered": true }
     ]); 
  });
 
